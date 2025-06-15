@@ -30,4 +30,13 @@ KPI Cards: Total Accidents, Casualties, Fatalities
 
 🛣️ Bar Charts: Casualties by vehicle, road, light, and weather conditions
 
-🔍 Slicers: Year, road surface, weather conditions, and severity filters
+What I Learned
+Hands-on dashboard building in Power BI
+
+Data modeling using DAX and Power Query
+
+Feature engineering and preprocessing in Python
+
+Design alignment using background image grids
+
+Insightful storytelling through visuals
